@@ -26,11 +26,3 @@ Category.init(
 );
 
 module.exports = Category;
-
-// //Category
-
-// category_name
-
-// String
-
-// Doesn't allow null values
