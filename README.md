@@ -33,6 +33,9 @@ In order to run the project after installation, do the following:
 3. Type `npm run seed` to seed tables in database
 4. Once seeded run `npm start`, open Insomnia to use associated API Routes
 
+Video of Application in use:
+[Watch Here!](https://watch.screencastify.com/v/n9RukWXj6gFHLMWlh2AA) 
+
 Screenshot of Application on Start:
 
 ![alt text](assets/img/start-app.png)
